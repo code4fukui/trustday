@@ -2,6 +2,12 @@
 
 - trusted day stamp service with [sec.js](https://github.com/code4fukui/sec.js/)
 
+## How to start
+
+```sh
+deno run -A server.js
+```
+
 ## Usage
 
 ```js
